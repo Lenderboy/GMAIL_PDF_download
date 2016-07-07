@@ -1,7 +1,5 @@
-#v1.01
+# v1.02
 
-import sys
-import os
 import credentials
 import gmail_client
 import re
